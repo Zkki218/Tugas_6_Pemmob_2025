@@ -1,6 +1,7 @@
 # Tugas Pertemuan 6
 
-Buat projek Flutter baru dengan nama 'NIM_Tugas6' 
+Buat projek Flutter baru dengan nama 'NIM_Tugas6'
+
 Buat folder `ui` dalam folder `lib`, lalu duatlah tampilan form yang berisi nama, NIM, dan tahun lahir pada file `ui/form_data.dart`, lalu buatlah tampilan hasil dari input data tersebut pada file `ui/tampil_data.dart`
 
 JELASKAN PROSES PASSING DATA DARI FORM MENUJU TAMPILAN DENGAN FILE `README.md`
