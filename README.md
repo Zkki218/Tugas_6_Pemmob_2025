@@ -1,4 +1,4 @@
-# Tugas Pertemuan 6
+# Tugas 6 Pertemuan 8
 
 Buat projek Flutter baru dengan nama 'NIM_Tugas6'
 
